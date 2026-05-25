@@ -1,5 +1,5 @@
 
-<br>🌱 I’m currently learning<br>
+<br> Olá o meu nome  Clauber sou estudante de Ciência da computação e estou em desenvolvimento de evolução <br>
 
 
 ## 🌐 Socials:
