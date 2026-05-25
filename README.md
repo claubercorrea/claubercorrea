@@ -1,5 +1,5 @@
 
-<br> Olá o meu nome  Clauber sou estudante de Ciência da computação e estou em desenvolvimento de evolução <br>
+<br> Olá o meu nome  Clauber sou estudante de Ciência da computação e estou constante  evolução <br>
 
 
 ## 🌐 Socials:
