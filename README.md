@@ -17,7 +17,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-Olá o meu nome Clauber sou estudante de Ciência da computação e estou constante evolução<br><br>
+Olá o meu nome Clauber sou estudante de Ciência da computação e estou constante evolução.<br><br>
 
 
 ## 🌐 Socials:
