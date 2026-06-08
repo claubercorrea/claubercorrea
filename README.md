@@ -32,7 +32,7 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://claubercorreaportfolio.vercel.app/)
  
  <hr>
-<h1>💻 Tech Stack</h1>
+<h1align="center">💻 Tech Stack</h1>
 <section style="display:flex;">
  
   <h3 align="center">Linguagens de programação</h3>
