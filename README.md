@@ -70,11 +70,10 @@
 
 <hr>
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=claubercorrea&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 [![]([https://komarev.com/ghpvc/?username=claubercorrea&icon=0&color=0](https://static.vecteezy.com/system/resources/previews/011/215/319/non_2x/planet-earth-with-sunrise-in-space-photo.jpg))](https://visitcount.itsvg.in)
-</div>
 
 
