@@ -62,12 +62,12 @@
   </tr>
 </table>
 <br>
-<div  align="center" > 
-<h2 > 📊 GitHub Stats:</h2>
+<div  align="center"> 
+<h2> 📊 GitHub Stats:</h2>
 
 ![](https://github-readme-stats.shion.dev/api?username=claubercorrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=claubercorrea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=claubercorrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=claubercorrea&theme=dark&hide_border=false)  
+<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=claubercorrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
 
 <!--### 🔝 Top Contributed Repo
