@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHgzZnY3N2U0dWxzbXlrMDRmZWg4NjM3ZnJ1dnU4YXNuZXB4YWM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"  height="200px" >
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHgzZnY3N2U0dWxzbXlrMDRmZWg4NjM3ZnJ1dnU4YXNuZXB4YWM4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"  height="200px"  border-radius=" 20px">
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <hr>
 <h1 align="center">💻 HABILIDADES</h1>
 
-<table border="0" align="center" width="100%">
+<table border="0" align="center" width="90%" style="background-color: rgba(0, 0, 0, 0.7); border-radius: 15px; padding: 15px; color: white;"">
   <tr>
     <th align="center"><h3>Linguagens</h3></th>
     <th align="center"><h3>Frameworks</h3></th>
