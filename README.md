@@ -19,7 +19,7 @@
 
 
 
-<h1 align="center">💫Sobre:</h1>
+<h1>💫Sobre:</h1>
 Olá o meu nome Clauber sou estudante de Ciência da computação e estou constante evolução.<br>
 
 
@@ -32,13 +32,11 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://claubercorreaportfolio.vercel.app/)
  
  <hr>
-<h1align="center">💻 Tech Stack</h1>
-<section style="display:flex;">
+<h1>💻 Tech Stack</h1>
  
-  <h3 align="center">Linguagens de programação</h3>
-  <hr>
-  
-  <div align="center">
+  <h3>Linguagens de programação</h3>
+
+
 <table>
 
   <td valign="top">
@@ -50,14 +48,13 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
 
 
   </table>
-  </div>
- 
-  <div align="center">
+
+
    <hr>
-          <h3 align="center">Front-end/Frameworks</h3>
+          <h3>Front-end/Frameworks</h3>
     <table>
    
-  <td valign="top" align="center">
+  <td valign="top">
      
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="35" hspace="2">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="35" hspace="2">
@@ -71,16 +68,13 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
     </td>
   
 </table>
-</div>
 
 
 
  
-  
-   <div align="center">
- <hr>
-    
-   <h3 align="center">Back-end/Frameworks</h3>
+
+
+   <h3>Back-end/Frameworks</h3>
 <table>
 
   <td valign="top">
@@ -94,13 +88,12 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
       <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="35" hspace="2">
     </td>
     </table>
-    </div>
 
    <hr>
      
-   <h3 align="center">Banco de Dados</h3>
+   <h3>Banco de Dados</h3>
    
-   <div align="center">
+
 <table>
   <td>
 
@@ -108,11 +101,10 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
 
  </td>
 </table>
-</div>
   <hr>
-  <h3 align="center">Ferramentas</h3>
+  <h3>Ferramentas</h3>
 
-   <div align="center">
+
 <table>
  <td valign="top">
 
@@ -125,21 +117,27 @@ Olá o meu nome Clauber sou estudante de Ciência da computação e estou consta
   </td>
 
 </table>
-</div>
+
 <hr>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=claubercorrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div  align="center" > 
+<h2 > 📊 GitHub Stats:</h2>
+
+![](https://github-readme-stats.shion.dev/api?username=claubercorrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=claubercorrea&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=claubercorrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=claubercorrea&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://komarev.com/ghpvc/?username=claubercorrea&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--(https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139-->
+</div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+<!--(https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
 
 
 
