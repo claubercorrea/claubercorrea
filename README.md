@@ -9,8 +9,9 @@
 
 <hr>
 
-<h1>🌐 Social</h1>
-<a href="https://www.linkedin.com/in/clauber-correa-rodrigues-valladares/" target="_blank">
+<!-- <h1>🌐 Social</h1>
+
+<a href="https://www.linkedin.com/in/clauber-correa-rodrigues-valladares/" target="_self">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
 </a>
 <a href="mailto:clauber.ro@outlook.com">
@@ -18,8 +19,18 @@
 </a>
 <a href="https://claubercorreaportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
+</a> -->
+<h1>🌐 Social</h1>
 
+<a href="https://www.linkedin.com/in/clauber-correa-rodrigues-valladares/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:clauber.ro@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://claubercorreaportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 </div>
 
 <hr>
